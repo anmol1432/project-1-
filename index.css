@@ -9,8 +9,8 @@
     width: 100vw;
 }
 .header{
-   /* z-index: 2;
-   position:sticky; */
+   z-index: 2;
+   position:sticky;
 }
 #container{
     position: fixed;
